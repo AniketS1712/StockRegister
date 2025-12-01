@@ -1,0 +1,1 @@
+enum ProductionStatus { inProgress, completed }
